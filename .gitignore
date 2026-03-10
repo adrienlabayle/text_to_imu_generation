@@ -205,3 +205,29 @@ cython_debug/
 marimo/_static/
 marimo/_lsp/
 __marimo__/
+
+
+
+# Project specific
+
+# datasets (important: no data on GitHub)
+data/
+
+# trained models
+models/
+
+# large files
+*.pt
+*.pth
+*.ckpt
+*.h5
+*.pkl
+*.joblib
+
+# experiment outputs
+outputs/
+logs/
+
+# system files
+.DS_Store
+Thumbs.db
