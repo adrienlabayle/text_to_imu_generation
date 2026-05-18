@@ -218,10 +218,8 @@ models/
 
 # large files
 *.pt
-*.pth
 *.ckpt
 *.h5
-*.pkl
 *.joblib
 
 # experiment outputs
