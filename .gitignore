@@ -213,9 +213,6 @@ __marimo__/
 # datasets (important: no data on GitHub)
 data/
 
-# trained models
-models/
-
 # large files
 *.pt
 *.ckpt
